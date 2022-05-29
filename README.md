@@ -14,3 +14,4 @@ link project 👇
 ## 📝 I regularly write articles on blog link!
 ## 📄 Know about my experiences resume link
 ## ⚡ Fun fact
+![easybank](https://user-images.githubusercontent.com/102245213/170889776-1927cf72-a453-4ff6-b4d3-33a28dff32d8.PNG)
