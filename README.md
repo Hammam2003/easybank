@@ -1,7 +1,7 @@
 link project 👇
 
 
-[easybank-link](https://Hammam2003.github.com/easybank-hammam-/)
+[easybank-link](https://Hammam2003.github.com/easybank-hammam)
 ##  Hi 👋, I'm Hammam Abo skran
 ## Subtitle :A passionate Design and frontend developer from India
 ## Work 🔭 I’m currently working on Company
